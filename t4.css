@@ -1,0 +1,80 @@
+ .a,.g,#b,#c,#d,#e,#f
+{
+   display: inline;
+   padding-left: 20px;
+   padding-right: 20px;
+}
+#s
+{
+   padding-left: 10%;
+   background-color:azure;
+  
+}
+#box
+{
+    color: aqua;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 30px;
+    padding-left: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 10px;
+    width: 12%;
+ 
+}
+.c1,.c2,.c3{
+    border-radius: 10px;
+    width: 30%;
+    margin: 20px;
+    width: 20%;
+    margin:20px;
+    align-self: center;
+    box-shadow: 10px 10px 10px cornsilk;
+     /* Slight zoom effect */
+    transition: all 0.5s ease-in-out; /* Smooth animation */
+}
+.i1,.i2,.i3
+{
+    align-self: center;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    width: 80%;
+}
+.t1
+{
+    text-align: center;
+    
+}
+.t2
+{
+   text-align: center;
+   
+}
+.container
+{
+    display: inline-flex;
+    margin: 10px;
+}
+.a,.link
+{
+ /* display: block; */
+ text-decoration: none;
+ color: inherit
+}
+#log
+{
+    
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+    border-radius: 30px;
+    background-color: aqua;
+}
+#foot
+{
+    background-color:aliceblue;
+    color:black;
+}

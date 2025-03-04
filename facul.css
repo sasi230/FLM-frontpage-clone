@@ -1,0 +1,21 @@
+.pic1,.pic2
+{
+    margin-left: 40%;
+    border-radius: 100%;
+}
+.box
+{
+    margin: 30px;
+    
+}
+.a
+{
+    text-align: center;
+}
+body
+{
+ background-image: url(https://res.cloudinary.com/dipemfqb8/image/upload/v1741079610/pngtree-vibrant-gradient-background-with-stained-frosted-glass-effect-image_755285_ghuesj.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment:scroll;
+}
